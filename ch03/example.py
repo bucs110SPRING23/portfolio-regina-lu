@@ -95,3 +95,20 @@ else:
 #...# do something
 # else: #optional
 #...# do something
+
+### Fizzbuzz
+# - loop through a range of values supplied by the user
+# - for each value in the range
+# - if the value is divisible by 3, print "fizz"
+# - if the value is divisible by 5, print "buzz"
+# - if the value is divisible by 3 and 5, print "fizzbuzz"
+
+num = int(input("enter an upper limit"))
+for i in range(num + 1):
+    print("number: ", + 1)
+    if i % 3 and i % 5 == 0:
+        print("fizzbuzz")
+    elif i % 3 == 0:
+        print("fizz")
+    elif i % 5 == 0:
+        print("buzz")
