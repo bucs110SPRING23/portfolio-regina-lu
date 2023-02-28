@@ -56,3 +56,12 @@ while True:
                 result.append("green")
             elif hitboxes["green"].collidepoint(event.pos):
                 result.append("green")
+    if turns == 0:
+        if result == order:
+            print("You win!", True, "white")
+        else:
+            print("You lose!", True, "white")
+    screen.fill((0, 0, 0))
+    for c, hb in hitboxes.items():
+        pygame.draw.rect(screen, c, hb)
+        screen.blit(box, box.get_rect())
