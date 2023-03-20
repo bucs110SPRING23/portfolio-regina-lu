@@ -1,0 +1,11 @@
+In the past 20 years, computers have become even more powerful and inexpensive. Now, a computer chip that can connect directly to the internet sells for US$5 – a lot less than today’s laptops and cellphones (about $300) or yesterday’s room-size computers ($1 million or more!).
+
+A refrigerator with a water dispenser on the left door and a large display screen on the right door
+Many newer appliances like this smart refrigerator are connected to the internet. Paul Stefaan Mooij/Wikimedia Commons, CC BY-NC-SA
+This lower cost has led to millions upon millions of devices connected to the internet. These devices include sensors. A smart thermostat monitors your house using a temperature sensor. A security camera keeps an eye on your front porch using an array of tiny light sensors.
+
+These devices also include actuators – mechanisms that control activity in the physical world. For example, a smart thermostat can turn on and off the heating and cooling systems in your house.
+
+Together, all these smart devices are called the Internet of Things, or IoT. The internet includes not only computers and phones, but all these IoT devices. You may have a smart refrigerator that has a camera inside of it. When it notices you’re out of milk, it will send a message to your cellphone, reminding you to buy more.
+
+Just about everything is connected to the internet now.
