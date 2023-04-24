@@ -40,7 +40,7 @@ def maxnum(threenplus1_iters_dict):
             max_so_far = max_so_far
     return max_so_far
 
-max_so_far = maxnum(threenp1range(10))
+max_so_far = str(maxnum(threenp1range(10)))
 
 font = pygame.font.Font(None, 50)
 msg = font.render(max_so_far, True, "white")
