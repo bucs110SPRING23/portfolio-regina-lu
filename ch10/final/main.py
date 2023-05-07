@@ -20,14 +20,14 @@ def main():
             video = input('Would you like to watch a video tutorial? ("yes" or "no") ')
             if video == "yes":
                 print(youtubevideo)
+                print("Hope that was helpful! \nNow lets move on to today's drink")
             else:
                 print("Let's move on to the drinks")
+            
             for data in drink:
                 drinkinstructions_eng = data['strInstructions']
                 drinkinstructions_it = data['strInstructionsIT']
             
-            print("Hope that was helpful!")
-            print("Now lets move on to today's drink")
             print("Today's drink menu is: Margarita")
             language = input('See instructions in: "English" or "Italian"? ')
             if language == "Italian" or language == "italian":
