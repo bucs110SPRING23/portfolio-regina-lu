@@ -23,7 +23,6 @@ class TriviaAPI:
     def change_category(self, category):
         pass
         #self.url = #...
-        
 
 def trivia():
     #Proxy Class
